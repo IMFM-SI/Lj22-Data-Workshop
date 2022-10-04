@@ -8,13 +8,46 @@ This workshop is dedicated to datasets of highly symmetrical graphs, covering as
 
 ## Tentative schedule
 
-|               | Saturday       | Sunday                         | Monday                         | Tuesday                        | Wednesday      |
-|---------------|----------------|--------------------------------|--------------------------------|--------------------------------|----------------|
-|  9:00 - 12:00 | short talks    | progress report and discussion | progress report and discussion | progress report and discussion | work in groups |
-| 12:00 - 13:00 | lunch break    | lunch break                    | lunch break                    | lunch break                    | lunch break    |
-| 13:00 - 15:30 | work in groups | problem session                | work in groups                 | work in groups                 | work in groups |
-| 15:30 - 16:00 | coffee break   | coffee break                   | coffee break                   | coffee break                   | coffee break   |
-| 16:00 - 18:30 | work in groups | work in groups                 | work in groups                 | work in groups                 | work in groups |
+### Saturday
+
+*  9:00 - 12:00: short talks
+* 12:00 - 13:00: lunch break
+* 13:00 - 15:30: work in groups
+* 15:30 - 16:00: coffee break
+* 16:00 - 18:30: work in groups
+
+### Sunday
+
+*  9:00 - 12:00: progress report and discussion
+* 12:00 - 13:00: lunch break
+* 13:00 - 15:30: problem session
+* 15:30 - 16:00: coffee break
+* 16:00 - 18:30: work in groups
+
+### Monday
+
+*  9:00 - 12:00: progress report and discussion
+* 12:00 - 13:00: lunch break
+* 13:00 - 15:30: work in groups
+* 15:30 - 16:00: coffee break
+* 16:00 - 18:30: work in groups
+
+### Tuesday
+
+*  9:00 - 12:00: progress report and discussion
+* 12:00 - 13:00: lunch break
+* 13:00 - 15:30: work in groups
+* 15:30 - 16:00: coffee break
+* 16:00 - 18:30: work in groups
+
+### Wednesday      
+
+*  9:00 - 12:00: work in groups 
+* 12:00 - 13:00: lunch break    
+* 13:00 - 15:30: work in groups 
+* 15:30 - 16:00: coffee break   
+* 16:00 - 18:30: work in groups 
+
 
 ## Organized by
 
