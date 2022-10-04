@@ -55,6 +55,6 @@ This workshop is dedicated to datasets of highly symmetrical graphs, covering as
 
 ## Supported by
 
-![ARRS logo](arrs-logo.png)
+![ARRS logo](/Lj22-Data-Workshop/assets/arrs-logo.png)
 
 research project no. J1-1691
