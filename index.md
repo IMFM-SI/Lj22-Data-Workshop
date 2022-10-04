@@ -19,3 +19,9 @@ This workshop is dedicated to datasets of highly symmetrical graphs, covering as
 ## Organized by
 
 * The [Institute of Mathematics, Physics, and Mechanics](http://www.imfm.si/)
+
+## Supported by
+
+![ARRS logo](arrs-logo.png)
+
+research project no. J1-1691
